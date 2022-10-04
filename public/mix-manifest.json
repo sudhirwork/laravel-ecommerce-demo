@@ -1,0 +1,20 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/scripts.js": "/js/scripts.js",
+    "/js/pnotify.min.js": "/js/pnotify.min.js",
+    "/js/clipboard.min.js": "/js/clipboard.min.js",
+    "/css/app.css": "/css/app.css",
+    "/css/select2.css": "/css/select2.css",
+    "/css/pnotify.css": "/css/pnotify.css",
+    "/css/login.css": "/css/login.css",
+    "/css/custom.css": "/css/custom.css",
+    "/css/quill.snow.css": "/css/quill.snow.css",
+    "/js/store/qty.js": "/js/store/qty.js",
+    "/js/store/smoothproducts.js": "/js/store/smoothproducts.js",
+    "/css/store/cart.css": "/css/store/cart.css",
+    "/css/store/custom.css": "/css/store/custom.css",
+    "/css/store/qty.css": "/css/store/qty.css",
+    "/css/store/smoothproducts.css": "/css/store/smoothproducts.css",
+    "/css/store/sticky-footer-navbar.css": "/css/store/sticky-footer-navbar.css",
+    "/images/logo-auth.png": "/images/logo-auth.png"
+}
